@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://10.6.202.8:3306/movie_db?useSSL=false&zeroDateTimeBehavior=convertToNull&useUnicode=true&characterEncoding=UTF-8&connectTimeout=1000&socketTimeout=15000
+    username: root
+    password: hqzc@2018
+
